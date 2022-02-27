@@ -1,0 +1,22 @@
+.fixed{
+    position: fixed;
+}
+
+.relative{
+    position: relative;
+}
+
+.bkg_b{
+    background-color: black;
+}
+
+#logo_res{
+    width: 30;
+    height: 30%;    
+}
+
+.thumbnail{
+    border: 1px solid white;
+    border-radius: 10%;
+    width: 100%;
+}
